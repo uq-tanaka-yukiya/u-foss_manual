@@ -1,0 +1,39 @@
+site_name: u-fossマニュアル
+
+# ページとmarkdownを紐づける
+nav:
+    - はじめに: index.md
+    - U-FOSS利用申請: shinnsei.md
+    - 設定の手順: setting.md
+    - sample: sample.md
+
+
+
+# ページのデザイン設定
+theme:
+  name: 'material'
+  language: 'ja'
+extra_css:
+    - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+    - "asset/css/custom.css"
+
+
+# 検索機能の追加
+extra:
+  search:
+    language: 'ja'
+    font:
+        text: "Noto Sans JP"
+        code: "Consolas"
+
+# 拡張機能の設定
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.mark
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
