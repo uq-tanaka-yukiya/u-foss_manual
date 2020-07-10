@@ -2,7 +2,7 @@
 
 ## U-FOSSとは
 株式会社ユニクエストが運営する「**小さなお葬式**」の葬儀を管理するためのWEBアプリケーションツールです。  
-「Uniquest-Funeral Operation Support Service」の頭文字をとり「U-FOSS(ユーフォス)」と言います。
+「Uniquest-Funeral Operation Support System」の頭文字をとり「U-FOSS(ユーフォス)」と言います。
 
 ## 利用するには
 
