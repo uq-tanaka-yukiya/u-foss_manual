@@ -1,11 +1,21 @@
-site_name: u-fossマニュアル
+site_name: U-FOSSマニュアル
 
 # ページとmarkdownを紐づける
 nav:
     - はじめに: index.md
     - U-FOSS利用申請: shinnsei.md
     - 設定の手順: setting.md
-    - sample: sample.md
+    - 施行一覧:
+      - 施行中案件: funeral_list_yet.md
+      - 施行済案件: funeral_list_complete.md
+      - UQプラン外: funeral_list_not_UQ_plan.md
+    - 葬儀の施行手順:
+      - 葬儀の流れと本サービス: sekou_top.md
+      - お迎: omukae.md
+      - 見積: mitsumori.md
+      - 請求: seikyu.md
+      - UQプラン外: not_UQ_plan.md
+    - お問い合わせ: contact.md
 
 
 
