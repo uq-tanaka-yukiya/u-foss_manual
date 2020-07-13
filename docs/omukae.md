@@ -6,7 +6,7 @@
 1. 施行中案件一覧の<img class="img_inline" src="../asset/image/omukae/icon_edit.png">を選択します.  
  ![編集ボタン押下](../asset/image/omukae/select_icon_edit.png)
 <br>
-※施行中案件の表示の仕方は[こちら](/funeral_list_yet/#1) をご確認ください. 
+※施行中案件の表示の仕方は[こちら](../funeral_list_yet/#1) をご確認ください. 
 
 2. **[お迎え内容を編集する]**を選択します.  
 <br>

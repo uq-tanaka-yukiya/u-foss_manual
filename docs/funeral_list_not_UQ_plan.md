@@ -6,7 +6,7 @@
 <br>
 
 ## 1. 表示の仕方  
-施行中案件から表示します.　施行中案件の表示の仕方は[こちら](/funeral_list_yet/#1) をご確認ください.   
+施行中案件から表示します.　施行中案件の表示の仕方は[こちら](../funeral_list_yet/#1) をご確認ください.   
 
 1. **[UQプラン外]**を選択します.   
  ![UQプラン外](../asset/image/funeral_list/select_funeral_list_not_UQ_plan.png)
