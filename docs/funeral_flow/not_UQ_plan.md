@@ -14,10 +14,10 @@
 ## 2. お客様の情報の確認とお迎え日時の設定  
 通常プランの[ステータス『お迎』](../omukae/)と同じです.   
 ※参照する一覧は**UQプラン外**です.  
-※UQプラン外の表示の仕方は[こちら](../funeral_list_not_UQ_plan/#1) をご確認ください. 
+※UQプラン外の表示の仕方は[こちら](../../funeral_list/not_UQ_plan/#1) をご確認ください. 
 
 ## 3. 施行の完了  
-1. UQプラン外一覧の<img class="img_inline" src="../asset/image/not_UQ_plan/icon_edit.png">を選択します.   
+1. UQプラン外一覧の<img class="img_inline" src="../../asset/image/not_UQ_plan/icon_edit.png">を選択します.   
  ![編集ボタン押下](../asset/image/not_UQ_plan/select_icon_edit.png)  
 
 2. **[施行を完了する]**を選択します.  

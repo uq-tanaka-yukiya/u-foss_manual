@@ -7,7 +7,7 @@
 <br>
 
 ## 1. 表示の仕方  
-施行中案件から表示します.　施行中案件の表示の仕方は[こちら](../funeral_list_yet/#1) をご確認ください.   
+施行中案件から表示します.　施行中案件の表示の仕方は[こちら](../yet/#1) をご確認ください.   
 
 1. **[施行済案件]**を開きます.   
  ![施行済案件](../asset/image/funeral_list/select_funeral_list_complete.png)
@@ -24,4 +24,4 @@
 |プラン|施行した葬儀のプランです.|
 |宗教者|葬儀にて宗教者（お坊さんや神主、聖職者）をお呼びしたかどうかです.|
 |ステータス|葬儀の進捗状況です.|
-|<img src="../asset/image/funeral_list/icon_seikyusho_check.png">|こちらから葬儀の請求書の内容を確認ができます.|
+|<img src="../../asset/image/funeral_list/icon_seikyusho_check.png">|こちらから葬儀の請求書の内容を確認ができます.|

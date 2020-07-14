@@ -29,5 +29,5 @@
 |プラン|施行する葬儀のプランです.|
 |宗教者|葬儀にて宗教者（お坊さんや神主、聖職者）をお呼びするかどうかです.|
 |ステータス|葬儀の進捗状況です.|
-|<img src="../asset/image/funeral_list/icon_edit.png">|ステータスを進めるために葬儀データの確認・編集を行います.|
-|<img src="../asset/image/funeral_list/icon_refresh.png">|小さなお葬式本部で保持されている葬儀データの最新情報を取得します.|
+|<img src="../../asset/image/funeral_list/icon_edit.png">|ステータスを進めるために葬儀データの確認・編集を行います.|
+|<img src="../../asset/image/funeral_list/icon_refresh.png">|小さなお葬式本部で保持されている葬儀データの最新情報を取得します.|

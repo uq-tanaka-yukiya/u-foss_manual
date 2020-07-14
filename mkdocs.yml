@@ -6,15 +6,15 @@ nav:
     - U-FOSS利用申請: shinnsei.md
     - 設定の手順: setting.md
     - 施行一覧:
-      - 施行中案件: funeral_list_yet.md
-      - 施行済案件: funeral_list_complete.md
-      - UQプラン外: funeral_list_not_UQ_plan.md
+      - 施行中案件: funeral_list/yet.md
+      - 施行済案件: funeral_list/complete.md
+      - UQプラン外: funeral_list/not_UQ_plan.md
     - 葬儀の施行手順:
-      - 葬儀の流れと本サービス: sekou_top.md
-      - お迎: omukae.md
-      - 見積: mitsumori.md
-      - 請求: seikyu.md
-      - UQプラン外: not_UQ_plan.md
+      - 葬儀の流れと本サービス: funeral_flow/sekou_top.md
+      - お迎: funeral_flow/omukae.md
+      - 見積: funeral_flow/mitsumori.md
+      - 請求: funeral_flow/seikyu.md
+      - UQプラン外: funeral_flow/not_UQ_plan.md
     - お問い合わせ: contact.md
 
 

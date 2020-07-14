@@ -3,9 +3,9 @@
 小さなお葬式本部から送客されたお客様の葬儀の請求書発行を行います.
 
 ## 1. 葬儀の詳細画面を表示する  
-1. 施行中案件一覧の<img class="img_inline" src="../asset/image/seikyu/icon_edit.png">を選択します.  
+1. 施行中案件一覧の<img class="img_inline" src="../../asset/image/seikyu/icon_edit.png">を選択します.  
  ![編集ボタン押下](../asset/image/seikyu/select_icon_edit.png)  
-※施行中案件の表示の仕方は[こちら](../funeral_list_yet/#1) をご確認ください. 
+※施行中案件の表示の仕方は[こちら](../../funeral_list/yet/#1) をご確認ください. 
 
 2. **[請求内容を編集する]**を選択します.  
  ![請求内容を編集する](../asset/image/seikyu/select_edit_mode.png)
