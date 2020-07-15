@@ -17,10 +17,10 @@
 ※UQプラン外の表示の仕方は[こちら](../../funeral_list/not_UQ_plan/#1) をご確認ください. 
 
 ## 3. 施行の完了  
-1. UQプラン外一覧の<img class="img_inline" src="../../asset/image/not_UQ_plan/icon_edit.png">を選択します.   
- ![編集ボタン押下](../asset/image/not_UQ_plan/select_icon_edit.png)  
+1. UQプラン外一覧の<img class="img_inline" src="../../asset/image/funeral_flow/not_UQ_plan/icon_edit.png">を選択します.   
+ ![編集ボタン押下](../asset/image/funeral_flow/not_UQ_plan/select_icon_edit.png)  
 
 2. **[施行を完了する]**を選択します.  
- ![施行を完了する](../asset/image/not_UQ_plan/select_complete_button.png)   
+ ![施行を完了する](../asset/image/funeral_flow/not_UQ_plan/select_complete_button.png)   
  以上で葬儀の施行管理の操作が終わりました.  
  一覧のデータを見るとステータスが**完了**となっているのが確認できます.
