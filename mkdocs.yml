@@ -15,6 +15,10 @@ nav:
       - 見積: funeral_flow/mitsumori.md
       - 請求: funeral_flow/seikyu.md
       - UQプラン外: funeral_flow/not_UQ_plan.md
+    - FAQ:
+      - 支払方法を変えたい: faq/change_payment_method.md
+      - プランが変更できない: faq/change_plan.md
+      - 入力した情報を本部に連携したい: faq/push_data.md
     - お問い合わせ: contact.md
 
 

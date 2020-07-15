@@ -7,7 +7,7 @@ Fax：06-XXXX-XXXX
 E-mail：XXXXX@uqo.jp
 <br><br>
 - 小さなお葬式の葬儀運用に関するお問い合わせ先  
-株式会社ユニクエスト　営業部  
+株式会社ユニクエスト　営業部（コールセンター）  
 TEL：06-XXXX-XXXX    
 Fax：06-XXXX-XXXX  
 E-mail：XXXXX@uqo.jp
