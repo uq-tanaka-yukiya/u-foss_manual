@@ -1,4 +1,4 @@
-# 葬儀の流れと本サービス
+# 葬儀の流れと本システム
 
  ![葬儀の流れ](../asset/image/funeral_flow/sekou_top/funeral_flow.png)
  <br>

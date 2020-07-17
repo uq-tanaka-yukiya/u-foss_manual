@@ -10,7 +10,7 @@ nav:
       - 施行済案件: funeral_list/complete.md
       - UQプラン外: funeral_list/not_UQ_plan.md
     - 葬儀の施行手順:
-      - 葬儀の流れと本サービス: funeral_flow/sekou_top.md
+      - 葬儀の流れと本システム: funeral_flow/sekou_top.md
       - お迎: funeral_flow/omukae.md
       - 見積: funeral_flow/mitsumori.md
       - 請求: funeral_flow/seikyu.md
