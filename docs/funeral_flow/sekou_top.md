@@ -15,9 +15,8 @@
  ![見積もり](../asset/image/funeral_flow/sekou_top/funeral_flow_mitsumori.png)
 <br>
 
-## ステータス３．『請求』
-このステータスでは、最後の「集金」を管理します.  
-※正確にはこの時お客様へお渡しする請求書の発行を管理します。
+## ステータス３. 『請求』
+このステータスでは、最後の「請求書をFAX送信」を管理します.  
  ![請求](../asset/image/funeral_flow/sekou_top/funeral_flow_seikyu.png)
 <br>
 
