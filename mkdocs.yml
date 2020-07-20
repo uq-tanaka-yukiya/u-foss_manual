@@ -15,6 +15,7 @@ nav:
       - 見積: funeral_flow/mitsumori.md
       - 請求: funeral_flow/seikyu.md
       - UQプラン外: funeral_flow/not_UQ_plan.md
+    - 葬儀の見積書と請求書: funeral_download.md
     - メンテナンス:
       - 担当者情報: maintenance/staff_members.md
       - その他品目情報: maintenance/adding_item.md
