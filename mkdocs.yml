@@ -3,7 +3,6 @@ site_name: U-FOSSマニュアル
 # ページとmarkdownを紐づける
 nav:
     - はじめに: index.md
-    - U-FOSS利用申請: shinnsei.md
     - 設定の手順: setting.md
     - 施行一覧:
       - 施行中案件: funeral_list/yet.md
