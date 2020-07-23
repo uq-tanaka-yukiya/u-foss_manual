@@ -24,6 +24,7 @@ nav:
       - プランが変更できない: faq/change_plan.md
       - 入力した情報を本部に連携したい: faq/push_data.md
       - 本部で変更された情報を取り込みたい: faq/pull_data.md
+      - パスワードを忘れてログインできない: faq/forget_password.md
     - お問い合わせ: contact.md
 
 
