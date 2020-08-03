@@ -4,7 +4,7 @@
 株式会社ユニクエスト　法人営業部  
 Tel：[06-7730-9083](tel:0677309083)  
 Fax：06-6131-6566  
-E-mail：[info@uqo.jp](mailto:info@uqo.jp)
+E-mail：[partner@uqo.jp](mailto:partner@uqo.jp)
 <br><br>
 - 小さなお葬式の葬儀運用に関するお問い合わせ先  
 株式会社ユニクエスト　営業部（コールセンター）  
