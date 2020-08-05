@@ -24,6 +24,7 @@ nav:
       - 入力した情報を本部に連携したい: faq/push_data.md
       - 本部で変更された情報を取り込みたい: faq/pull_data.md
       - パスワードを忘れてログインできない: faq/forget_password.md
+      - 入力したお迎え時間を確認したい: faq/omukae_time
     - お問い合わせ: contact.md
 
 
