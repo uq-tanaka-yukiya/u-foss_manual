@@ -10,4 +10,4 @@ E-mail：[partner@uqo.jp](mailto:partner@uqo.jp)
 株式会社ユニクエスト　営業部（コールセンター）  
 TEL：[06-7730-2914](tel:0677302914)    
 Fax：06-6131-6566  
-E-mail：[info@uqo.jp](mailto:info@uqo.jp)
+E-mail：[company@osohshiki.jp](mailto:company@osohshiki.jp)
