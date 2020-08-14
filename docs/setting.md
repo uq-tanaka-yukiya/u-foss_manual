@@ -6,7 +6,7 @@
 
 ## 1. ログインして追加のU-FOSSユーザーを作成  
 
-1. 配布されたアカウント情報を使って、[こちらからU-FOSSにログイン](https://staging.u-foss.jp/){:target="_blank"}します.  
+1. 配布されたアカウント情報を使って、[こちらからU-FOSSにログイン](https://u-foss.jp/){:target="_blank"}します.  
  ![ログイン画面](../asset/image/setting/login.png)
 
 2. 登録された電話番号宛てに4桁のコードが書かれたSMSが送られていますので、そのコードを入力します.  
