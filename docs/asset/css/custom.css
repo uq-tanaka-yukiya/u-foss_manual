@@ -21,6 +21,6 @@ table img,
 }
 
 
-.md-typeset__table td{
+.md-typeset__table th, .md-typeset__table td{
     text-align: left;
 }
