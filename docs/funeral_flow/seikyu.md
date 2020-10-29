@@ -45,7 +45,8 @@
 ### 4. 請求内容の確認  
 1. お客様に見せるように通知がでますので、**[はい]**を選択し表示された画面をお客様にお見せします.  
  ![通知1](../asset/image/funeral_flow/seikyu/notice1.png)  
- ![請求書](../asset/image/funeral_flow/seikyu/seikyu_step4_1.png)
+ ![請求書](../asset/image/funeral_flow/seikyu/seikyu_step4_1.png)  
+※葬儀の担当者を変更する場合は、表示されている担当者名を選択して変更できます.  
 
 2. お客様の確認が取れましたら、**[確定]**を選択します.  
  ![請求書](../asset/image/funeral_flow/seikyu/seikyu_step4_2.png)  
