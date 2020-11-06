@@ -85,18 +85,22 @@
 ※この操作は**必ずお客様が操作**してください.
  ![ご署名完了](../asset/image/funeral_flow/mitsumori/mitsumori_step11.png)
 
-4. 端末を担当者へ返却するように通知がでますので、**[次へ]**を選択しお客様から端末を返してもらいます.  
+4. アフターサービスに関するアンケートに記入し、**[確定]**を選択します.  
+※この操作は**必ずお客様が操作**してください.
+ ![見積書](../asset/image/funeral_flow/mitsumori/mitsumori_step12.png)
+
+5. 端末を担当者へ返却するように通知がでますので、**[次へ]**を選択しお客様から端末を返してもらいます.  
  ![通知1](../asset/image/funeral_flow/mitsumori/notice2.png)  
- ![見積書](../asset/image/funeral_flow/mitsumori/mitsumori_step12_1.png)
+ ![見積書](../asset/image/funeral_flow/mitsumori/mitsumori_step13_1.png)
 
-5. お客様の署名を確認しましたら、**[確認しました]**を選択します.  
+6. お客様の署名を確認しましたら、**[確認しました]**を選択します.  
 ※署名をやり直してもらう場合には、**[再度ご署名をお願いする]**を選択します.  
- ![見積書](../asset/image/funeral_flow/mitsumori/mitsumori_step12_2.png)
+ ![見積書](../asset/image/funeral_flow/mitsumori/mitsumori_step13_2.png)
 
-6. 見積書のお渡し方法を選択します.  
- ![見積書お渡し方法](../asset/image/funeral_flow/mitsumori/mitsumori_step13.png)
+7. 見積書のお渡し方法を選択します.  
+ ![見積書お渡し方法](../asset/image/funeral_flow/mitsumori/mitsumori_step14.png)
 
 ## 4. 完了    
- ![見積完了](../asset/image/funeral_flow/mitsumori/mitsumori_step14.png)  
+ ![見積完了](../asset/image/funeral_flow/mitsumori/mitsumori_step15.png)  
  以上で葬儀の見積りの操作が終わりました.  
  **[一覧へ戻る]**ボタンより施行一覧に戻りますと、ステータスが**請求**に変わっています.
