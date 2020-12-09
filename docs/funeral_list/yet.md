@@ -32,3 +32,11 @@
 |ステータス|葬儀の進捗状況です.<br>「お迎」をクリックすると設定したお迎え時間が表示されます.|
 |<img src="../../asset/image/funeral_list/icon_edit.png">|ステータスを進めるために葬儀データの確認・編集を行います.|
 |<img src="../../asset/image/funeral_list/icon_refresh.png">|小さなお葬式本部で保持されている葬儀データの最新情報を取得します.|
+
+
+
+## 3. 絞り込み機能
+右上にある<img class="img_inline" src="../../asset/image/funeral_list/search_button.png">より一覧葬儀データの絞り込み条件を設定できます.  
+※絞り込みできるのは施行中案件の画面のみです. 施行完了案件、UQプラン外の画面は対象外です.
+<br />
+<img src="../../asset/image/funeral_list/search_list.png">
