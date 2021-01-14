@@ -16,3 +16,14 @@
 2. **[施行CSVエクスポート]**を選択します.  
  ![メニュー_施行CSVエクスポート](../asset/image/download_orders/menu_select_download_documents.png)
 <br>
+
+## 2. ダウンロード方法  
+
+1. **CSVエクスポート**ボタンを押下します.   
+<br>
+
+2. 出力条件を設定し、ダウンロードしたいデータのボタンを押下します.  
+ ![メニュー_施行CSVエクスポート](../asset/image/download_orders/conditions.png)
+<br>
+
+
