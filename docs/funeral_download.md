@@ -14,6 +14,6 @@
  ![メニューボタン](../asset/image/funeral_download/menu_button.png)
 <br>
 
-2. **[書類ダウンロード]**を選択します.  
+2. 施行管理 > **[書類ダウンロード]**を選択します.  
  ![メニュー_書類ダウンロード](../asset/image/funeral_download/menu_select_download_documents.png)
 <br>
