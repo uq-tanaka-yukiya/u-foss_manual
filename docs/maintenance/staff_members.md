@@ -10,7 +10,7 @@ U-FOSSを利用するユーザを管理するための画面です.
 <br>
 
 
-2. **[担当者一覧]**を選択します.  
+2. 担当者管理 > **[担当者一覧]**を選択します.  
  ![メニュー_担当者一覧](../asset/image/maintenance/staff_members/menu_select_staff.png)
 <br>
 

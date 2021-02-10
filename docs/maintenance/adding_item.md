@@ -10,7 +10,7 @@
 <br>
 
 
-2. **[その他品目一覧]**を選択します.  
+2. 品目管理 > **[その他品目一覧]**を選択します.  
  ![メニュー_その他品目一覧](../asset/image/maintenance/adding_item/menu_select_item.png)
 <br>
 

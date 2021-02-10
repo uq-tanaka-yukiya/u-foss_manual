@@ -13,7 +13,7 @@
  ![メニューボタン](../asset/image/funeral_list/menu_button.png)
 <br>
 
-2. **[施行一覧]**を選択します.  
+2. 施行管理 > **[施行一覧]**を選択します.  
  ![メニュー_施行一覧](../asset/image/funeral_list/menu_select_funeral_list.png)
 <br>
   

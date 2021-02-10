@@ -13,7 +13,7 @@
  ![メニューボタン](../asset/image/download_orders/menu_button.png)
 <br>
 
-2. **[施行CSVエクスポート]**を選択します.  
+2. 施行管理 > **[施行CSVエクスポート]**を選択します.  
  ![メニュー_施行CSVエクスポート](../asset/image/download_orders/menu_select_download_documents.png)
 <br>
 
