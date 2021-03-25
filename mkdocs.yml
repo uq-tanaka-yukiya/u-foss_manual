@@ -21,6 +21,7 @@ nav:
       - 担当者情報: maintenance/staff_members.md
       - 担当者グループ情報: maintenance/staff_member_groups.md
       - その他品目情報: maintenance/adding_item.md
+    - お知らせ閲覧: announcements.md
     - FAQ:
       - 支払方法を変えたい: faq/change_payment_method.md
       - プランが変更できない: faq/change_plan.md
