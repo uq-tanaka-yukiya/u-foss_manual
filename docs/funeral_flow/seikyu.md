@@ -64,7 +64,19 @@
 2. 請求書のお渡し方法を選択します.  
  ![請求書お渡し方法](../asset/image/funeral_flow/seikyu/seikyu_step6.png)
 
-## 4. 完了    
+## 4. アンケートの回答
+1. アンケート回答の可否を選択します.  
+   **[回答]**ボタンを選択するとアンケートフォームへ遷移します.  
+  ![アンケート回答可否](../asset/image/funeral_flow/seikyu/customer_review_1.png)  
+ **[回答拒否]**ボタンを選択した場合は、回答できない理由を選択し、**[決定]** ボタンを選択してください.
+ アンケートフォームをスキップして完了画面へ遷移します.  
+ **[クレーム発生のため]**を選択した場合は、弊社コールセンターまでご連絡ください.
+ ![アンケート回答拒否理由](../asset/image/funeral_flow/seikyu/customer_review_2.png)  
+2. お客様にタブレットを渡し、アンケートの回答を行っていただきます.  
+  入力が完了したら、 **[決定]** ボタンを選択してください. 問1～問4までは入力必須です.  
+  ![アンケートフォーム上段](../asset/image/funeral_flow/seikyu/customer_review_3.png)
+  ![アンケートフォーム下段](../asset/image/funeral_flow/seikyu/customer_review_4.png)
+## 5. 完了    
  ![請求完了](../asset/image/funeral_flow/seikyu/seikyu_step7.png)  
  以上で葬儀の施行管理の操作が終わりました.  
  **[一覧へ戻る]**ボタンより施行一覧に戻りますと、**施行済案件**に表示されています.
